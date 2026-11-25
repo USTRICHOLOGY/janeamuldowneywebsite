@@ -1,6 +1,6 @@
 # JaNea Muldowney website
 
-Preview of the Alchemy Scalp Wellness website for JaNea Muldowney, certified clinical trichologist in Oceanside, CA.
+Preview of the Alchemy Scalp Wellness website for JaNea Muldowney, certified clinical trichologist in Leucadia, CA.
 
 A plain static site: open `index.html` in a browser, or publish the folder with GitHub Pages (Settings > Pages > Deploy from branch > `main` / root).
 
